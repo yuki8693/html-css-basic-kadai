@@ -130,11 +130,16 @@ SP用のスタイル
 
   #nav-sp a:hover {
     text-decoration: underline;
+    color: #fff;
+  }
+
+  #mav-sp a:active {
+    color: #fff;
   }
 
   #nav-sp .menu {
     text-decoration: none;
-    margin: 20px;
+    margin: 0 20px;
     height: 44px;
     font-size: 16px;
     background-image: url("images/arrow.png");
